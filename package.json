@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "webdriverjs": "^1.3.2",
-    "selenium-standalone": "~2.40.0-2.9.0",
+    "selenium-standalone": "https://github.com/randelic/selenium-standalone/tarball/master",
     "phantomjs": "~1.9.7-1"
   },
   "devDependencies": {
